@@ -774,7 +774,8 @@
   "/bilibili/user/video-all/:uid/:disableEmbed?": [],
   "/bilibili/user/video/:uid/:disableEmbed?": [
     "DIYgod",
-    "Konano"
+    "Konano",
+    "pseudoyu"
   ],
   "/bilibili/vsearch/:kw/:order?/:disableEmbed?/:tid?": [
     "pcrtool",
@@ -3282,6 +3283,9 @@
   ],
   "/hypergryph/arknights/news/:group?": [
     "Astrian"
+  ],
+  "/i-cable/news/:category?": [
+    "quiniapiezoelectricity"
   ],
   "/ianspriggs/:category?": [
     "nczitzk"
